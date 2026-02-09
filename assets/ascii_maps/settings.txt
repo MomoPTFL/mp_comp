@@ -1,0 +1,33 @@
+Font to Bitmap Converter: https://stmn.itch.io/font2bitmap
+
+Font: https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nVivNm4I81.woff2
+
+Settings:
+
+4 per Row
+128 width and height
+Font Size 80
+
+Presets:
+
+Symbols
+@?&#%|*$=+<>.,/-
+
+
+
+Numbers:
+7889456722330011
+
+Operators:
++*&#)(></-%= .,^
+
+Latin:
+AVPQYSZMraxbcitl
+
+Mixed:
+Z@X#$&L9+>n1.,-=
+
+Binary:
+1111111100000000
+
+
