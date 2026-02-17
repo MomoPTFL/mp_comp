@@ -1,0 +1,23 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+cbdd9201-1c3e-4a22-9646-cc2c0b636478:MP_Comp V3.1.0:MP_Comp V3.1.0
+7aad3faf-3c06-4eb0-a655-c4dd01f63e15:MP_Comp V3.1.0/3D:MP_Comp V3.1.0-3D
+af365924-2c8b-471b-a7ef-8ad2f4fd5529:MP_Comp V3.1.0/Adjust:MP_Comp V3.1.0-Adjust
+8de4e2a1-168b-4fc4-b74f-41ce773c6292:MP_Comp V3.1.0/Complex Filters:MP_Comp V3.1.0-Complex Filters
+8fb53f12-2037-4fb7-aac9-63574b84c123:MP_Comp V3.1.0/Distort:MP_Comp V3.1.0-Distort
+a772defb-fc3d-44d3-b6d2-a04857e36c3b:MP_Comp V3.1.0/Generators:MP_Comp V3.1.0-Generators
+aa802a01-f4e0-49b4-90a0-a50117950d1d:MP_Comp V3.1.0/Generators/Overlays:MP_Comp V3.1.0-Generators-Overlays
+9e19db41-0ff8-49c3-84bf-771a97a4f2ba:MP_Comp V3.1.0/Generators/Quick:MP_Comp V3.1.0-Generators-Quick
+da00a441-414c-4f7f-833e-6c0ae417e84c:MP_Comp V3.1.0/Legacy:MP_Comp V3.1.0-Legacy
+29edb5fe-20a1-46f0-9492-123fab4f22df:MP_Comp V3.1.0/Shapes:MP_Comp V3.1.0-Shapes
+319ec336-851e-4b69-93c5-b14d66239e2b:MP_Comp V3.1.0/Shapes/Primitives:MP_Comp V3.1.0-Shapes-Primitives
+715bdf3d-612b-47cb-a69e-39b2bfe787de:MP_Comp V3.1.0/Stylize:MP_Comp V3.1.0-Stylize
+205e9625-02f2-4ce7-a798-c11a9c79e9e4:MP_Comp V3.1.0/Transitions:MP_Comp V3.1.0-Transitions
+963b0d52-f54b-4957-be83-936e6f77ad4a:MP_Comp V3.1.0/Utility:MP_Comp V3.1.0-Utility
+8b26d4aa-6620-4688-b02c-a27973d4e820:MP_Comp V3.1.0/~Looks:MP_Comp V3.1.0-~Looks
